@@ -74,10 +74,8 @@ button{
 
 
 #parent-container{
-   
     display: flex;
     justify-content: center;
-    padding: 10px;
     background-color: midnightblue;
     
 }
@@ -85,14 +83,13 @@ button{
 #first-content{
     background-color: white;
     padding: 25px;
-    margin: 0 20px 0 0;
     border-radius: 4px;
+    margin-right: 20px;
 }
 
 #second-content{
     background-color: white;
     padding: 25px;  
-    margin: 0 20px 0 0; 
     border-radius: 4px;
 }
 
@@ -119,23 +116,24 @@ button{
 #works{
     display: flex;
     justify-content: start;
-    margin: 40px;
+    margin: 0 0 40px 0;
     border-radius: 6px;
     background-color: white;
-    border: 3px solid rgba(224, 224, 224, 1)
 }
+
+
+
 #Dashboard{
     width: 246px;
-    height: 140px;
-    radius: 6px;
+    height: 180px;
+    border-radius: 4px;
     
     
 }
 
 
 #bland{
-    width: 62px;
-    left: 410px;
+    margin-right: 10px;
     border-radius: 16px;
     background-color: midnightblue;
 }
@@ -144,7 +142,6 @@ button{
 #mira{
     display: flex;
     margin: 20px;
-    justify-content: space-evenly;
 }
 
 
@@ -154,6 +151,10 @@ button{
     margin-bottom: 40px;
 }
 
+#line{
+    margin: 15px 0 15px 0;
+    border-bottom: 1px solid grey;
+}
 
 
 
@@ -166,28 +167,25 @@ button{
 #act{
     display: flex;
     justify-content: start;
-    margin: 40px;
+    margin: 0 0 40px 0;
     border-radius: 6px;
     background-color: white;
-    border: 3px solid rgba(224, 224, 224, 1)
 }
 #Illustration{
         width: 246px;
-        height: 140px;
-        radius: 6px;
+        height: 180px;
+        border-radius: 4px;
           
 }
 
 #ton{
-    width: 62px;
-    left: 410px;
+    margin-right: 10px;
     border-radius: 16px;
     background-color: midnightblue;
 }
 
 #royal{
     display: flex;
-    justify-content: space-evenly;
 }
 
 #you{
@@ -201,21 +199,19 @@ button{
 #ion{
     display: flex;
     justify-content: start;
-    margin: 40px;
+    margin: 0 0 40px 0;
     border-radius: 6px;
     background-color: white;
-border: 3px solid rgba(224, 224, 224, 1);
 }
 #Typography{
     width: 246px;
-     height: 140px;
-     radius: 6px;
+     height: 180px;
+     border-radius: 4px;
      
 }
 
 #tto{
-    width: 62px;
-    left: 410px;
+    margin-right: 10px;
     border-radius: 16px;
     background-color: midnightblue;
 }
@@ -224,7 +220,6 @@ border: 3px solid rgba(224, 224, 224, 1);
 
 #detect{
     display: flex;
-    justify-content: space-evenly;
 }
 
     
