@@ -1,0 +1,264 @@
+ul {
+    display: flex;
+    padding-left: 800px;
+    justify-content: flex-end;
+    list-style-type: none;
+    
+}
+
+
+
+ a {
+    margin: 20px;
+}
+a:link {
+    text-decoration: none;
+}
+
+
+
+
+
+#hero_container{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+section{
+    padding: 0 146px 0 146px;
+}
+
+h1{
+    margin-bottom: 40px;
+}
+
+#graph{
+    margin-bottom: 40px;
+}
+
+button{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+
+#Profile-picture{
+    width: 243px;
+    height: 243px;
+    border-radius: 50%;
+}
+
+#description{
+    margin: 0 115px 71px 115px;
+}
+
+
+
+
+
+
+
+
+
+
+#post-heading{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+
+
+#parent-container{
+   
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: midnightblue;
+    
+}
+
+#first-content{
+    background-color: white;
+    padding: 25px;
+    margin: 0 20px 0 0;
+    border-radius: 4px;
+}
+
+#second-content{
+    background-color: white;
+    padding: 25px;  
+    margin: 0 20px 0 0; 
+    border-radius: 4px;
+}
+
+
+
+
+#lil_heading{
+    display: flex;
+    justify-content: space-between;
+    width: 1060px;
+    
+}
+
+#heading{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+
+
+
+
+
+#works{
+    display: flex;
+    justify-content: start;
+    margin: 40px;
+    border-radius: 6px;
+    background-color: white;
+    border: 3px solid rgba(224, 224, 224, 1)
+}
+#Dashboard{
+    width: 246px;
+    height: 140px;
+    radius: 6px;
+    
+    
+}
+
+
+#bland{
+    width: 62px;
+    left: 410px;
+    border-radius: 16px;
+    background-color: midnightblue;
+}
+
+
+#mira{
+    display: flex;
+    margin: 20px;
+    justify-content: space-evenly;
+}
+
+
+
+#st{
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+#act{
+    display: flex;
+    justify-content: start;
+    margin: 40px;
+    border-radius: 6px;
+    background-color: white;
+    border: 3px solid rgba(224, 224, 224, 1)
+}
+#Illustration{
+        width: 246px;
+        height: 140px;
+        radius: 6px;
+          
+}
+
+#ton{
+    width: 62px;
+    left: 410px;
+    border-radius: 16px;
+    background-color: midnightblue;
+}
+
+#royal{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#you{
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+
+
+
+#ion{
+    display: flex;
+    justify-content: start;
+    margin: 40px;
+    border-radius: 6px;
+    background-color: white;
+border: 3px solid rgba(224, 224, 224, 1);
+}
+#Typography{
+    width: 246px;
+     height: 140px;
+     radius: 6px;
+     
+}
+
+#tto{
+    width: 62px;
+    left: 410px;
+    border-radius: 16px;
+    background-color: midnightblue;
+}
+        
+
+
+#detect{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+    
+#em{
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+
+
+
+
+
+#resume{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.foot{
+    width: 50px;
+    height: 50px;
+}
+
+#cop{
+    text-align: center;
+}
+
+/*#danke{
+    display: flex;
+    justify-content: center;
+    width: 1154px;
+    height: 21px;
+    top: 107px;
+    left: 464px; 
+}
+
