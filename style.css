@@ -75,20 +75,18 @@ button{
 
 #parent-container{
     display: flex;
-    justify-content: center;
-    background-color: midnightblue;
-    
+    justify-content: center;    
 }
 
 #first-content{
-    background-color: white;
+    background-color: beige;
     padding: 25px;
     border-radius: 4px;
     margin-right: 20px;
 }
 
 #second-content{
-    background-color: white;
+    background-color: beige;
     padding: 25px;  
     border-radius: 4px;
 }
@@ -246,12 +244,4 @@ button{
     text-align: center;
 }
 
-/*#danke{
-    display: flex;
-    justify-content: center;
-    width: 1154px;
-    height: 21px;
-    top: 107px;
-    left: 464px; 
-}
 
