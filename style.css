@@ -16,14 +16,15 @@ a:link {
 }
 
 
-
+#recentPostSection{
+    background-color: #EDF7FA;
+}
 
 
 #hero_container{
     display: flex;
     justify-content: center;
 }
-
 
 
 section{
@@ -79,14 +80,14 @@ button{
 }
 
 #first-content{
-    background-color: beige;
+    background-color: skyblue;
     padding: 25px;
     border-radius: 4px;
     margin-right: 20px;
 }
 
 #second-content{
-    background-color: beige;
+    background-color: skyblue;
     padding: 25px;  
     border-radius: 4px;
 }
@@ -227,18 +228,19 @@ button{
 
 
 
-
-
 #resume{
     display: flex;
     justify-content: center;
-    
+    margin-top: 83px;
+    gap: 35px;
 }
 
-.foot{
-    width: 50px;
-    height: 50px;
+#resume > img {
+    width: 30px;
+
 }
+
+
 
 #cop{
     text-align: center;
